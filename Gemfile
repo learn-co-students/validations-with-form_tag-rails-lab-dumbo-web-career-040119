@@ -13,6 +13,7 @@ gem 'bootsnap'
 group :development, :test do
   gem 'pry'
   gem 'capybara'
+  gem 'better_errors'
 end
 
 group :development do
